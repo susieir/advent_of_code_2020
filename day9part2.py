@@ -55,7 +55,6 @@ def main(filename, step):
 
 
 
-""" Part 2 code"""
 
 # Loop through list to find contiguous range
 
